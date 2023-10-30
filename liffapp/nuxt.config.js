@@ -18,7 +18,6 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    'ant-design-vue/dist/antd.css',
     '~/assets/css/style.css'
   ],
 
