@@ -4,7 +4,9 @@
   </div>
 </template>
 
-<style>
+<style lang="scss">
+@import '~/assets/uni.scss';
+
 html {
   font-family:
     'Source Sans Pro',
