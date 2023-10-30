@@ -151,7 +151,8 @@
 import { ref } from 'vue';
 const selectedKeys = ref(['4']);
 </script>
-<style scoped>
+
+<style>
 #components-layout-demo-fixed-sider .logo {
   height: 32px;
   background: rgba(255, 255, 255, 0.2);
