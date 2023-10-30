@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import layout from 'ant-design-vue/lib/layout';
+
 
 export default {
   name: 'IndexPage',
